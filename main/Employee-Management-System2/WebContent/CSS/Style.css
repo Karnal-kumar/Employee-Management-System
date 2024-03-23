@@ -1,0 +1,41 @@
+.container{
+	background-color:pink;
+	width:400px;
+	text-align:center;
+	border:4px solid black;
+	border-radius:10px;
+	margin:auto;
+	
+	margin-top:50px;
+	color:red;
+}
+
+
+td{
+	padding-left:35px;
+	padding-top:15px;
+}
+th{
+	padding-top:15px;
+	text-align:justify;
+}
+input{
+	height:30px;
+	width:200px;
+}
+
+button{
+	background-color:blue;
+	color:white;
+	height:35px;
+	cursor:pointer;
+}
+
+button:hover{
+	font-size:17px;
+	color:red;
+}
+
+h3{
+	text-decoration:underline;
+}
